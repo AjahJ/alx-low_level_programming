@@ -6,6 +6,6 @@
  */
 int ain(void)
 {
-printf("%s\n", _FILE_);
+print("%s\n", "FILE");
 return (0);
 }
