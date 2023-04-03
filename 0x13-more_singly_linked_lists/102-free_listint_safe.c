@@ -33,7 +33,7 @@ while (tortoise != hare)
 {
 nodes++;
 tortoise = tortoise->next;
-}			
+}
 return (nodes);
 }
 tortoise = tortoise->next;
